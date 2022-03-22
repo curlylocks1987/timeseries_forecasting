@@ -4,5 +4,6 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
+|[Ridge Auto Regression test](Autoreg_test)|Исследование некоторых свойство авторегрессионной модели для прогнозирования спроса, а также страховых запасов.|*pandas*,*darts*, *matplotlib*, *numpy*, *scipy.stats*, *sklearn*, *statsmodels*|
 |[Weather test](Weather_test)|Исследование влияния погодных данных на спрос, моделлируемый авторегрессией на базе Ridge-регрессии.|*pandas*,*darts*, *matplotlib*, *numpy*, *scipy.stats*, *sklearn*, *statsmodels*|
 
